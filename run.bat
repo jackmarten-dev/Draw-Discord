@@ -1,0 +1,2 @@
+node draw.js
+PAUSE
